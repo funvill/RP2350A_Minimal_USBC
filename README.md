@@ -22,5 +22,5 @@ So that I can use the JLCPCB cupon here [RP2350 now available to buy: a high-per
 
 ## Helpful Links
 
-- [KiCanvas](https://kicanvas.org/?github=) - In browser view of the KiCad files.
+- [KiCanvas](https://kicanvas.org/?github=https://github.com/funvill/RP2350A_Minimal_USBC/tree/main/RP-006440-DD-2-RP2350A%20Minimal%20Board%20Kicad%20archive) - In browser view of the KiCad files.
 - [Hardware Design With RP2350](https://datasheets.raspberrypi.com/rp2350/hardware-design-with-rp2350.pdf)
